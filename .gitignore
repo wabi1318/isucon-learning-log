@@ -1,0 +1,8 @@
+.DS_Store
+.codex-log/
+.local/
+*.local.md
+.env
+.env.*
+!.env.example
+docs/work-log
