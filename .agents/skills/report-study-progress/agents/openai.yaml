@@ -1,0 +1,4 @@
+interface:
+  display_name: "学習進捗レポート"
+  short_description: "現在の学習記録から定例向けの短い進捗報告を証拠付きで作成"
+  default_prompt: "$report-study-progressを使い、現在のISUCON学習記録から定例用の短い進捗報告を作成してください。"
